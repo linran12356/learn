@@ -1,0 +1,4 @@
+repository "learn@tj_yanhuiru126@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
